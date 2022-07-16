@@ -6,6 +6,9 @@ Made with React and Python Django
 ![alt text](images/homepage.png)
 <em>Homepage</em>
 <br />
+<br />
+<br />
+<br />
 
 ![alt text](images/register.png)
 <em>Registration page</em>
