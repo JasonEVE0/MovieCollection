@@ -1,0 +1,12 @@
+.dashboardContainer {
+    height: fit-content;
+}
+
+.movieContent {
+    display: flex;
+    justify-content: center;
+}
+
+.introMessage {
+    margin-top: 5rem;
+}

@@ -1,0 +1,40 @@
+.registerPage {
+    background-color: rgb(27, 27, 29);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signUpForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.signUpForm h2 {
+    color: dodgerblue;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.signUpForm td {
+    padding: 10px 0;
+}
+
+.signUpForm td input {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    border-radius: 10px;
+}
+
+.registerButton {
+    padding: 10px 105px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    background-color:dodgerblue;
+    border-radius: 10px;
+    color: azure;
+    margin-top: 10px;
+}

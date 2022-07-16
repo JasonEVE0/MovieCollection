@@ -1,0 +1,8 @@
+.movieContent {
+    margin: 2rem auto;
+}
+
+.movieSearch {
+    display: flex;
+    justify-content: center;
+}

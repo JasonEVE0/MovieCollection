@@ -1,0 +1,8 @@
+.addMovieHeaderBar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.movieSearch {
+    margin-top: 1rem;
+}

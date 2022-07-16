@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.614d7ddf.css",
+    "main.js": "/static/js/main.40a2c118.js",
+    "static/media/ds-poster.jpg": "/static/media/ds-poster.956bbb433f432719e465.jpg",
+    "static/media/flubber-poster.jpg": "/static/media/flubber-poster.9ce7ce9e58da7eb47989.jpg",
+    "static/media/anger-poster.jpg": "/static/media/anger-poster.1261ff917b743a63046c.jpg",
+    "static/media/mrbean-poster.jpg": "/static/media/mrbean-poster.c6477e84377026528a7c.jpg",
+    "index.html": "/index.html",
+    "main.614d7ddf.css.map": "/static/css/main.614d7ddf.css.map",
+    "main.40a2c118.js.map": "/static/js/main.40a2c118.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.614d7ddf.css",
+    "static/js/main.40a2c118.js"
+  ]
+}

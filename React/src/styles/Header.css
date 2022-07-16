@@ -1,0 +1,25 @@
+.dashboardContainer {
+    background-color: rgb(27, 27, 29);
+    height: 100vh;
+    margin-top: 1rem;
+}
+
+.logoutBar {
+    text-align: right;
+}
+
+.headingBarText {
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.addBar {
+    text-align: center;
+}
+
+.divider {
+    color: white;
+    background-color: white;
+    margin-top: 1rem;
+    border-top: 1px solid white;
+}
