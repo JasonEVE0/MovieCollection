@@ -3,4 +3,4 @@ An open source web application which communicates with IMDB's API to generate a 
 
 Made with React and Python Django
 
-![alt text](images/homepage.jpg)
+![alt text](images/homepage.png)
