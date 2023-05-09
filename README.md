@@ -30,9 +30,13 @@ Made with React and Python Django
 
 # Instructions
 You need to install the necessary dependencies using pip install:
+<br />
 requests
+<br />
 django
+<br />
 djangorestframework
+<br />
 django-cors-headers
 
 In the settings.py file you must provide and IMDB API key as the API_KEY variable, you can get these keys after registering an account at:
