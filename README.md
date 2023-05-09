@@ -27,3 +27,16 @@ Made with React and Python Django
 ![alt text](images/updated-dashboard.png)
 <em>Updated dashboard with a few batman movies added</em>
 <br /><br /><br />
+
+# Instructions
+You need to install the necessary dependencies using pip install:
+requests
+django
+djangorestframework
+django-cors-headers
+
+In the settings.py file you must provide and IMDB API key as the API_KEY variable, you can get these keys after registering an account at:
+https://imdb-api.com/
+
+You can start the server by navigating to the directory of the manage.py file and running:
+python manage.py runserver
